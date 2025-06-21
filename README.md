@@ -1,4 +1,4 @@
-📧 Cold Email Generator
+###📧 Cold Email Generator
 An end-to-end LLM-powered tool that helps Software and AI services companies generate personalized cold emails for potential clients by analyzing job postings and matching them with company portfolios.
 🚀 Features
 
